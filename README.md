@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UwpqMYOQ)
-# e4040-2023fall-project-aaa3-ar4634-ab5640-ap4478
+# A review of SWIN Transformers
 # SWIN Transformer Model
 This README provides a concise overview of the SWIN Transformer model, instructions on how to create and compile a model using TensorFlow, and access to weights obtained during experiments.
 
